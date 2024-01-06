@@ -1,0 +1,41 @@
+{
+  "commands" :
+    [
+      {
+        "command": "!cmds",
+        "text": "$pseudo, les commandes : hello, lurk, calin, bagarre, bisous, mort, jeux"
+      },
+      {
+        "command": "!hello",
+        "text": "Coucou $pseudo, ravie de t'avoir parmis nous p'tite vache meumeu3COEUR !"
+      },
+      {
+        "command": "!lurk",
+        "text": "Merci $pseudo pour ton lurk, broute bien meumeu3TWAIRK !"
+      },
+      {
+        "command": "!bagarre",
+        "text": "Viens $pseudo, mon p'tit vilain, on se retrouve rue de la soif ! meumeu3UDEAD meumeu3Swag !"
+      },
+      {
+        "command": "!calin",
+        "text": "Viens $pseudo mon petit doudou, que je te fasse un gros calinou meumeu3PLAID meumeu3COEUR meumeu3COEUR meumeu3COEUR meumeu3PLAID !"
+      },
+      {
+        "command": "!bisous",
+        "text": "BI-SOUS meumeu3COEUR meumeu3PLAID !"
+      },
+      {
+        "command": "!jeux",
+        "text": "$pseudo -> Liste des jeux pour le jeu-à-thon : Les Zeldo !"
+      },
+      {
+        "command": "!samou",
+        "text": "$pseudo, Samou est un être étrange doté de bizzarerie ma foi forts agréables et on l'aime beaucoup finalement 💕!"
+      },
+      {
+        "command": "!mike",
+        "text": "$pseudo, Mike est un amour de modo et de poto qui est toujours là pour répondre aux questions et prendre soin de son entourage 💕!"
+      }
+    ]
+}
